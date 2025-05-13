@@ -1,0 +1,140 @@
+📄 Reporte generado: 2025-05-13_16-41-46
+==================================================
+👨👩‍🦰 Paciente 1
+🧪 Síntomas: dificultad para respirar, fiebre
+🩻 Diagnóstico: Revisión general
+💉 Nivel de urgencia: 3
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 2
+🧪 Síntomas: dolor en el pecho, dolor abdominal, dificultad para respirar
+🩻 Diagnóstico: Posible ataque cardíaco
+💉 Nivel de urgencia: 1
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 3
+🧪 Síntomas: dolor abdominal, mareo, dolor de cabeza
+🩻 Diagnóstico: Problema digestivo
+💉 Nivel de urgencia: 2
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 4
+🧪 Síntomas: dificultad para respirar
+🩻 Diagnóstico: Revisión general
+💉 Nivel de urgencia: 3
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 5
+🧪 Síntomas: mareo, dolor en el pecho, fiebre
+🩻 Diagnóstico: Revisión general
+💉 Nivel de urgencia: 3
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 6
+🧪 Síntomas: mareo
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 7
+🧪 Síntomas: dolor abdominal, mareo, dolor en el pecho
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 8
+🧪 Síntomas: fiebre, dolor abdominal
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 9
+🧪 Síntomas: mareo, dolor abdominal, dolor de cabeza
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 10
+🧪 Síntomas: mareo, dificultad para respirar
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 11
+🧪 Síntomas: mareo, dolor abdominal, dolor de cabeza
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 12
+🧪 Síntomas: dolor de cabeza, dolor en el pecho
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 13
+🧪 Síntomas: dolor abdominal, dificultad para respirar, fiebre
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 14
+🧪 Síntomas: dolor abdominal
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 15
+🧪 Síntomas: dificultad para respirar
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 16
+🧪 Síntomas: mareo, dificultad para respirar, dolor en el pecho
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 17
+🧪 Síntomas: dolor abdominal
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 18
+🧪 Síntomas: dolor en el pecho
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 19
+🧪 Síntomas: dolor en el pecho, dificultad para respirar
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 20
+🧪 Síntomas: dolor abdominal
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+
+📈 Reporte Final del Hospital
+👥 Total de pacientes simulados: 20
+✅ Admitidos: 5
+❌ Se retiraron: 15
+
+
+🔢 Prioridad 1:
+   ✅ Admitidos: 1
+   ❌ Retirados: 0
+
+🔢 Prioridad 2:
+   ✅ Admitidos: 1
+   ❌ Retirados: 0
+
+🔢 Prioridad 3:
+   ✅ Admitidos: 3
+   ❌ Retirados: 0
