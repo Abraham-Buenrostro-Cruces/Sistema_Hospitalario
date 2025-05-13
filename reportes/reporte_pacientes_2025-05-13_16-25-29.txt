@@ -1,0 +1,80 @@
+📄 Reporte generado: 2025-05-13_16-25-29
+==================================================
+👨👩‍🦰 Paciente 1
+🧪 Síntomas: dolor abdominal, fiebre
+🩻 Diagnóstico: Problema digestivo
+💉 Nivel de urgencia: 2
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 2
+🧪 Síntomas: dolor en el pecho
+🩻 Diagnóstico: Revisión general
+💉 Nivel de urgencia: 3
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 3
+🧪 Síntomas: dolor de cabeza, dificultad para respirar
+🩻 Diagnóstico: Revisión general
+💉 Nivel de urgencia: 3
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 4
+🧪 Síntomas: dolor de cabeza, fiebre
+🩻 Diagnóstico: Infección viral
+💉 Nivel de urgencia: 2
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 5
+🧪 Síntomas: dificultad para respirar
+🩻 Diagnóstico: Revisión general
+💉 Nivel de urgencia: 3
+🏨 Estado final: admitted
+--------------------------------------------------
+👨👩‍🦰 Paciente 6
+🧪 Síntomas: fiebre, mareo
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 7
+🧪 Síntomas: dolor de cabeza, mareo
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 8
+🧪 Síntomas: dolor de cabeza, fiebre, dolor abdominal
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 9
+🧪 Síntomas: dolor de cabeza, mareo, dolor abdominal
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+👨👩‍🦰 Paciente 10
+🧪 Síntomas: dificultad para respirar
+🩻 Diagnóstico: None
+💉 Nivel de urgencia: None
+🏨 Estado final: waiting
+--------------------------------------------------
+
+📈 Reporte Final del Hospital
+👥 Total de pacientes simulados: 10
+✅ Admitidos: 5
+❌ Se retiraron: 5
+
+
+🔢 Prioridad 1:
+   ✅ Admitidos: 0
+   ❌ Retirados: 0
+
+🔢 Prioridad 2:
+   ✅ Admitidos: 2
+   ❌ Retirados: 0
+
+🔢 Prioridad 3:
+   ✅ Admitidos: 3
+   ❌ Retirados: 0
